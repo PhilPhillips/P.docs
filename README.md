@@ -15,3 +15,5 @@ raw链接经文件加速网站后使用；
 
 文件加速网站：
 https://ghproxy.net/
+
+https://ghp.ci/
